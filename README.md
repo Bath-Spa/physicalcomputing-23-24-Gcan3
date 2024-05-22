@@ -2,6 +2,6 @@
 # PhysicalComputing23-24
 
 
-Group work code - apps folder. Source code is from: https://github.com/arbalet-project/arbapps
+Group work code - apps folder. Full source code is from: https://github.com/arbalet-project/arbapps
 
 Individual work codes - individual_experiments_code folder. 
